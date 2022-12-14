@@ -5,7 +5,7 @@ Eu sou estudante do Instituto Federal de Educação, Ciência e Tecnologia de Br
 A baixo está as tecnologias e ferramentas que estou estudando atualmente, e tenho, o básico de instrições para a utilizar-las:
 (vamos dizer que eu sei 15% de cada tecnologia ou ferramenta!)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+<img height="10px" width="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
