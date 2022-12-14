@@ -1,8 +1,8 @@
-### Olá, Devs! 👋
+### Olá, Devs! 💻
 
 Eu sou estudante do Instituto Federal de Educação, Ciência e Tecnologia de Brasília, atualmente matrículado no curso, tecnologia em sistemas para internet(graduação).
 
-A baixo está as tecnologias e ferramentas que estou estudando atualmente, e tenho o básico de instrições para a utilizar-las
+A baixo está as tecnologias e ferramentas que estou estudando atualmente, e tenho o básico de instrução para a utilizar-las
 (vamos dizer que eu sei 15% de cada tecnologia ou ferramenta!).
 
 <div>
