@@ -14,11 +14,6 @@ A baixo está as tecnologias e ferramentas que estou estudando atualmente, e ten
   <img height="55px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
 </div>
 
-<style>
-  #ferramentas{
-  diplay:flex;
-  }
-</style>
 
 <div>
   <a href="https://github.com/ademar-costa">
