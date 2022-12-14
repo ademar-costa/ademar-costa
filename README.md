@@ -5,14 +5,20 @@ Eu sou estudante do Instituto Federal de Educação, Ciência e Tecnologia de Br
 A baixo está as tecnologias e ferramentas que estou estudando atualmente, e tenho, o básico de instrições para a utilizar-las:
 (vamos dizer que eu sei 15% de cada tecnologia ou ferramenta!)
 
-<img height="55px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-<img height="55px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-<img height="55px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img height="55px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-<img height="55px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
-<img height="55px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+<div id="ferramentas">
+  <img height="55px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+  <img height="55px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+  <img height="55px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img height="55px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  <img height="55px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
+  <img height="55px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+</div>
 
-
+<style>
+  #ferramentas{
+  diplay:flex;
+  }
+</style>
 
 <div>
   <a href="https://github.com/ademar-costa">
