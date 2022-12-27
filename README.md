@@ -3,8 +3,8 @@
 Eu sou estudante do Instituto Federal de Educação, Ciência e Tecnologia de Brasília, atualmente matrículado no curso, Tecnologia em Sistemas Para Internet(graduação).<br>
 <br>
 
-[![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://exectech.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://exectech.com)
+[![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/exec.tec/)
 [![Dircord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/500062843706540032/500767570790449162)
 <br>
 <br>
