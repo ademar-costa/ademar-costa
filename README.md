@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="img/hacker.png">
+  <img height="500" src="img/hacker.png">
 </div>
 
 ###
@@ -21,10 +21,9 @@
 ###
 
 
-<p align="right">Meu nome é Ademar e tenho 27 anos. Atualmente, estou cursando Sistemas para Internet no Instituto Federal de Educação, Ciência e Tecnologia de Brasília (IFB), onde tenho a oportunidade de transformar minha paixão por tecnologia em conhecimento.</p>
+<p align="center">Meu nome é Ademar e tenho 27 anos. Atualmente, estou cursando Sistemas para Internet no Instituto Federal de Educação, Ciência e Tecnologia de Brasília (IFB), onde tenho a oportunidade de transformar minha paixão por tecnologia em conhecimento.</p>
 
-<p align="right"> 
-Sou um eterno aprendiz e busco desafios que me ajudem a crescer. Tenho um grande interesse pela área acadêmica e pretendo seguir essa jornada. Fique à vontade para explorar meus projetos e vamos nos conectar!</p>
+<p align="center">Sou um eterno aprendiz e busco desafios que me ajudem a crescer. Tenho um grande interesse pela área acadêmica e pretendo seguir essa jornada. Fique à vontade para explorar meus projetos e vamos nos conectar!</p>
 
 ###
 
