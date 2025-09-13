@@ -10,12 +10,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ademar-costa.ademar-costa&"  />
-</div>
-
-###
-
 <h1 align="center">Olá dev! 👋</h1>
 
 ###
