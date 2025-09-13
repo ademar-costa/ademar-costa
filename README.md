@@ -7,13 +7,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ademar_costa/)
 [![Dircord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/500062843706540032/500767570790449162)
 
-
 ###
 
 <h1 align="center">Olá dev! 👋</h1>
-
-###
-
 
 <p align="center">Meu nome é Ademar e tenho 27 anos. Atualmente, estou cursando Sistemas para Internet no Instituto Federal de Educação, Ciência e Tecnologia de Brasília (IFB), onde tenho a oportunidade de transformar minha paixão por tecnologia em conhecimento.</p>
 
@@ -25,7 +21,6 @@
 
 <h2 align="center">Language and tools</h2>
 
-###
 
 <br clear="both">
 
@@ -57,11 +52,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
-###
 
 <h3 align="center">My Stats</h3>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ademar-costa&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=merko&hide_border=true&order=2" height="100" alt="languages graph"  />
@@ -69,4 +62,3 @@
   <img src="https://streak-stats.demolab.com?user=ademar-costa&locale=pt-br&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
