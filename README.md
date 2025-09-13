@@ -2,12 +2,10 @@
   <img height="500" src="img/hacker.png">
 </div>
 
-###
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ademar_costa/)
 [![Dircord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/500062843706540032/500767570790449162)
 
-###
+<br clear="both">
 
 <h1 align="center">Olá dev! 👋</h1>
 
@@ -15,14 +13,9 @@
 
 <p align="center">Sou um eterno aprendiz e busco desafios que me ajudem a crescer. Tenho um grande interesse pela área acadêmica e pretendo seguir essa jornada. Fique à vontade para explorar meus projetos e vamos nos conectar!</p>
 
-###
-
 <br clear="both">
 
 <h2 align="center">Language and tools</h2>
-
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
